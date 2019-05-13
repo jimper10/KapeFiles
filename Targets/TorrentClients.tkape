@@ -14,7 +14,7 @@ Targets:
     -
         Name: TorrentClients - qBittorrent
         Category: FileDownload
-        Path: C:\Users\*\AppData\Local\qBittorrent\logs
+        Path: C:\Users\*\AppData\Local\qBittorrent\logs\*        
         IsDirectory: false
         Recursive: false
         Comment: "Locates log files and copies them"
